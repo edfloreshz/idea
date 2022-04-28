@@ -1,0 +1,5 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="NewElementMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+</keymap>
